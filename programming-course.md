@@ -21,6 +21,7 @@
    - Link
    - Table
    - Lists
+   - <div> Tag
    - Form
    - Select
    - Video, Audio
