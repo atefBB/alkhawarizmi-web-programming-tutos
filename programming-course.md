@@ -26,3 +26,23 @@
    - Video, Audio
 
 3. Section 3: CSS
+   - Definition
+   - 3 ways to add CSS to an HTML page
+   - Colors
+   - Background
+   - Borders
+   - Margin, Padding
+   - Text, Font
+   - Link
+   - Inline, Block & Float
+   - Text Format
+   - Lists
+   - Tables
+   - Website Layout
+   - Gradiant
+   - Transition, Transform
+   - Animation
+   - SVG
+   - Flexbox
+   - Grid
+   - Responsive (optional)
