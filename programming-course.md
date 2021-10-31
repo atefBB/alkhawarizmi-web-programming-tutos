@@ -8,13 +8,12 @@
 
 2. Section 2: HTML
 
-   - What's HTML?
-     - Definition
-     - HTML file structure (main tags)
-       - html tag
-       - head tag
-       - body tag
-     - 1st HTML file
+   - Definition
+   - HTML file structure (main tags)
+     - html tag
+     - head tag
+     - body tag
+   - 1st HTML file
    - Heading
    - Paragraph
    - Comments
