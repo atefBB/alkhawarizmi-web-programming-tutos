@@ -7,6 +7,7 @@
      - Browser (firefox)
 
 2. Section 2: HTML
+
    - What's HTML?
      - Definition
      - HTML file structure (main tags)
@@ -19,9 +20,10 @@
    - Comments
    - Images
    - Link
-   - Lists
    - Table
+   - Lists
    - Form
    - Select
    - Video, Audio
+
 3. Section 3: CSS
