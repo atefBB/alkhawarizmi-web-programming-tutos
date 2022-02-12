@@ -59,7 +59,7 @@
      - Types
      - Variables
      - Expressions/Statements
-     - If/Else
+     - Decisions (If/Else)
      - Loops
      - Functions
    - Advanced Topics (To be added In chaa Allah)
