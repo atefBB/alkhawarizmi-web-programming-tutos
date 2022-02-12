@@ -47,3 +47,17 @@
    - Flexbox
    - Grid
    - Responsive (optional)
+
+4. Section 4: JavaScript (EcmaScript)
+	* Basics
+   	   - History
+   	   - Resources (mdn.io, [JS cource](https://frontendmasters.com/courses/getting-started-javascript-v2/))
+   	   - Values
+   	   - Operations
+   	   - Types
+   	   - Variables
+   	   - Expressions/Statements
+   	   - If/Else
+   	   - Loops
+   	   - Functions
+	* Advanced Topics (To be added In chaa Allah)
