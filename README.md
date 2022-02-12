@@ -52,7 +52,7 @@
 4. Section 4: JavaScript (EcmaScript)
    - Basics
      - History
-     - Resources ([mdn.io](mdn.io), [JS cource](https://frontendmasters.com/courses/getting-started-javascript-v2/))
+     - Resources ([mdn.io](mdn.io), [JS course](https://frontendmasters.com/courses/getting-started-javascript-v2/))
      - Values
      - Operations
      - Types
