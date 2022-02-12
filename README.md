@@ -53,6 +53,7 @@
    - Basics
      - History
      - Resources ([mdn.io](mdn.io), [JS course](https://frontendmasters.com/courses/getting-started-javascript-v2/))
+     - First JS program
      - Values
      - Operations
      - Types
